@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Receitas
 
 Este é um sistema CRUD simples desenvolvido em PHP com integração ao MySQL para gerenciar receitas.
@@ -57,3 +58,7 @@ Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE.md para
 
 
 
+=======
+# Sistema-de-Receitas
+Sistema para cadastro de receitas
+>>>>>>> a3ab5bf (Initial commit)
